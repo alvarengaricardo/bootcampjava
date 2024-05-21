@@ -15,15 +15,13 @@ public class ContaTerminal {
         agencia = scanner.nextLine();
 
         System.out.print("Por favor, digite o número da conta: ");
-        numero = scanner.nextInt();
-        scanner.nextLine();
+        numero = Integer.valueOf(scanner.nextLine());
 
         System.out.print("Por favor, digite nome do cliente: ");
         nomeCliente = scanner.nextLine();
 
         System.out.print("Por favor, digite o saldo inicial: ");
-        saldo = scanner.nextFloat();
-        scanner.nextLine();
+        saldo = Float.valueOf(scanner.nextLine());
 
 
         // TODO: Obter, via Scanner, os valores digitados no terminal
