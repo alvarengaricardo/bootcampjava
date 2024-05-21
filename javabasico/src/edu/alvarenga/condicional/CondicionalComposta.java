@@ -9,4 +9,5 @@ public class CondicionalComposta {
             System.out.println("Aprovado!");
         else
             System.out.println("Reprovado.");
-}}
+    }
+}
