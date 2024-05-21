@@ -1,6 +1,6 @@
 package edu.alvarenga.condicional;
 
-public class Condicional {
+public class CondicionalSimples {
     // condicional simples
     public static void main(String[] args) throws Exception {
         double saldo = 25.0;
