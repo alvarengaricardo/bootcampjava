@@ -1,3 +1,5 @@
+package dc_01;
+
 import java.util.Scanner;
 
 public class ControleSimplesDeSaques {
